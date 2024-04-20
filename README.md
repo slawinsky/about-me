@@ -1,11 +1,6 @@
-# Security Engineer
-### Areas of Expertise
+### Skills
 
 - Cybersecurity
 - Networking
 - Windows Server
 - Linux
-
-### Contact Me
-
-You can reach me via email at jakubslawinsky@gmail.com.
